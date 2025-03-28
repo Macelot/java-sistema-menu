@@ -1,6 +1,6 @@
 # java-sistema-menu
 
-```java
+```python
 import java.util.ArrayList;
 import java.util.Scanner;
 
