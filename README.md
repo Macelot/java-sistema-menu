@@ -1,6 +1,6 @@
 # java-sistema-menu
 
-```python
+```sql
 import java.util.ArrayList;
 import java.util.Scanner;
 
