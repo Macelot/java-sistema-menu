@@ -1,6 +1,6 @@
 # java-sistema-menu
 
-```sql
+```java
 import java.util.ArrayList;
 import java.util.Scanner;
 
